@@ -9,3 +9,5 @@ Cosidered as the Father of the Computer, Babbage created the first computer in 1
 He created a machine known as the Anylytical Engine, that had a CPU, and memory by using the punch cards used to run mills.
 Babbage worked close with Ada Lovelace, who created the first computer program.  Lovelace saw that the anylytical engine could be used for more than just computing mathmatics.
 Babbage created the Anylitical Engine to increase work productivity for making calculations
+## Joseph Marie Charles (aka Jacquard)
+Joseph was born into a well-to-do family that was well off with money.  But despite this, Joseph remained illeterate until he was 13 years old.  When his father died, he was left with a house, vineyard, looms, a workshop, and a quarry to manage.
