@@ -10,4 +10,3 @@ lets see if i can make a paragraph.  well, i made a new line
 * [Course Description](https://forehgra001.github.io/Hello-Web/coursedescription)
 * [What is Comp Sci?](https://forehgra001.github.io/Hello-Web/whatiscompsci)
 * [People of Interest](https://forehgra001.github.io/Hello-Web/peopleofinterest)
-hi im showing ellery how to do this
