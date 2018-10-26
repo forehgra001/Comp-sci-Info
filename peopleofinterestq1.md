@@ -1,4 +1,4 @@
-# People of Interest
+# People of Interest Q1
 ## Ada Lovelace
 1815-1852. Mathmatician-English Ada Lovelace was the daughter of the poet Lord Byron.  During her upbringing her mother encouraged her to learn about art and science,encouraging her to persue a career in science.
 She met a scientist by the name of Charles Babbage, who is considered the father of the computer.  Babbage created an anylytical machine, and had Lovelace review the notes over the device.
