@@ -1,4 +1,4 @@
-# Hello-Web
+# Comp Sci Info
                 
 * [Syllabus](https://forehgra001.github.io/Hello-Web/syllabus)
 * [Course Description](https://forehgra001.github.io/Hello-Web/coursedescription)
