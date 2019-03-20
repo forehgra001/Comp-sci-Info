@@ -28,3 +28,5 @@ History of Computer Chess according to Wiki:
 
 1951 – Turing & Champernowne are first to publish a program, developed on paper, that was capable of playing a full game of chess.
 
+## NOLAN BUSHNELL
+American. B: 1943 – Current
