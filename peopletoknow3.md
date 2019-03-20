@@ -11,12 +11,20 @@ German American. B: 1922 – D: 2014. Known as the "Father of Video Games". Born
 
 ## ALAN TURING & DAVAID CHAMPERNOWNE
 English | English. B: 1922 – D: 2014 | B: 1912 – D: 2000. Created one of the first chess-playing computer programs. Champernowne worked in statistical section of the prime minister's office during WW2 to supply quantitative info to Churchill. Was later a Proffesor of Economics and Statistics at Oxford/Cambridge.  "Since there was no machine yet that could execute the instructions, Turing did himself, acting as a human CPU requiring more than half an hour per move. One game is recorded, which Turing's "paper machine" lost to one of his colleagues, Alick Glennie. At the University of Manchester, Turing began programming Turochamp, as well as Michie's and Wylie's program Machiavelli, to run on a Ferranti Mark 1 computer, but could not complete them." 
+
 History of Computer Chess according to Wiki:
+
 1769 – Wolfgang von Kempelen builds the Automaton Chess-Player, in what becomes one of the greatest hoaxes of its period.
+
 1868 – Charles Hooper presented the Ajeeb automaton — which also had a human chess player hidden inside.
+
 1912 – Leonardo Torres y Quevedo builds a machine that could play King and Rook versus King endgames.
+
 1941 – Konrad Zuse develops computer chess algorithms in his Plankalkül programming formalism. However, because of the circumstances of the war, they were not published, and weren't known until the 1970s.
+
 1948 – Norbert Wiener's book Cybernetics describes how a chess program could be developed using a depth-limited minimax search with an evaluation function.
+
 1950 – Claude Shannon publishes "Programming a Computer for Playing Chess", one of the first papers on the problem of computer chess.
+
 1951 – Turing & Champernowne are first to publish a program, developed on paper, that was capable of playing a full game of chess.
 
