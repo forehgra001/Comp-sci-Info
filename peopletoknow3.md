@@ -29,4 +29,13 @@ History of Computer Chess according to Wiki:
 1951 – Turing & Champernowne are first to publish a program, developed on paper, that was capable of playing a full game of chess.
 
 ## NOLAN BUSHNELL
-American. B: 1943 – Current
+American. B: 1943 – Current.  Founded more than 20 companies, and is considered one of the founding fathers of video games. He is most popularly known for creating the game system Atari. inducted into the Video Game Hall of Fame and the Consumer Electronics Association Hall of Fame, received the BAFTA Fellowship and the Nations Restaurant News “Innovator of the Year” award, and was named one of Newsweek's "50 Men Who Changed America."  Is credited with Bushnels law of gmaes being "easy to learn, difficult to master" being rewarding. Joined Perrone Robotics, that makes robotic software platforms for autonomous vehicles and mobile robots.
+
+## DON RAWITSCH, BILL HEINEMANN, and PAUL DILLENBERGER
+American. Created the game Oregon Trail. Rawitsch wanted to create the game to make learning about western expansion more interesting for the 8th grade class he was teaching. The game is said to almost have too much information in it, which is conter-produtctive to its objective of teaching. 
+
+## TOMOHIRO NISHIKADO
+Japanese. B: 1944 - Current.  Japanese video game developer, that created Elepong (similar to Pong), one of Japan's earliest locally produced video arcade games. Created the popular game space invaders, using the objects he did due to insufficient computing power to program gram objects like planes. 
+
+## JERRY LAWSON
+American. B: 1940 - 2011. Was an engineering consult for several companies, until he finally became director of engineering and marketing for Fairchild's video game division. There, he led the development of the Fairchild Channel F console, and the removal ROM cartridges for game consols. This was big, since most games were directly programed into a consol, and couldnt be removed. Was the sole black members of the Homebrew Computer Club, which also included popular people like Apple founders Steve Jobs and Steve Wozniak.
