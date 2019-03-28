@@ -6,3 +6,4 @@
 * [People to Know Q1](https://forehgra001.github.io/Comp-sci-Info/peopleofinterestq1)
 * [People to Know Q2](https://forehgra001.github.io/Comp-sci-Info/peopleofinterestq2)
 * [People to Know Q3](https://forehgra001.github.io/Comp-sci-Info/peopletoknow3)
+* [People to Know Q4](https://forehgra001.github.io/Comp-sci-Info/peopletoknow4)
