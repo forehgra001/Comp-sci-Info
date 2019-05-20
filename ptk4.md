@@ -10,3 +10,6 @@ Japanese B:1965-  . Known as the creator of the Nintendos Pokemon series, and fo
 
 ## KEN KUTARGAI
 Japanese  B:1950- .Former Chairman and Group CEO of Sony Computer Entertainment (SCEI), the video game division of Sony, and current president and CEO of Cyber AI Entertainment. Known as the "Father of the Playstation" and its spinoffs. Enjoyed taking toys apart as a child to see how they worked, which eventally turned into a love for electronics. Worked for Sony in their digigtal research labs,he quickly gained a reputation as an excellent problem solver and a forward thinking engineer. He had also designed the sound processor for the Super NES. With Sony, he designed the VLSI chip which works in conjunction with the PS1's RISC CPU to handle the graphics rendering.
+
+## Gabe Newell
+American B: 1962 -  .  Attended Harvard, and then dropped out to work at Microsoft for 13 years. Later left the company with another microsoft employee to found Valve L.L.C. in 1996. Since PC gaming was declining, they faced many problems uyupdating their game base for modern systems.
